@@ -1,7 +1,7 @@
 const socialLinks = [
   {
     label: "Instagram",
-    href: "https://www.instagram.com/",
+    href: "https://www.instagram.com/nazmi.music/",
     icon: (
       <svg viewBox="0 0 24 24" className="h-5 w-5" aria-hidden>
         <path
@@ -13,7 +13,7 @@ const socialLinks = [
   },
   {
     label: "Facebook",
-    href: "https://www.facebook.com/",
+    href: "https://www.facebook.com/nazmiusakliogluoffical/",
     icon: (
       <svg viewBox="0 0 24 24" className="h-[22px] w-[22px]" aria-hidden>
         <path
@@ -25,7 +25,7 @@ const socialLinks = [
   },
   {
     label: "X",
-    href: "https://x.com/",
+    href: "https://x.com/nusaklioglu?s=21",
     icon: (
       <svg viewBox="0 0 24 24" className="h-5 w-5" aria-hidden>
         <path
@@ -37,7 +37,7 @@ const socialLinks = [
   },
   {
     label: "YouTube",
-    href: "https://www.youtube.com/",
+    href: "https://www.youtube.com/channel/UCkFY30ARAfJudXNHAjxGgvg",
     icon: (
       <svg viewBox="0 0 24 24" className="h-5 w-5" aria-hidden>
         <path
@@ -49,7 +49,7 @@ const socialLinks = [
   },
   {
     label: "TikTok",
-    href: "https://www.tiktok.com/",
+    href: "https://www.tiktok.com/@nazmi.music",
     icon: (
       <svg viewBox="0 0 24 24" className="h-5 w-5" aria-hidden>
         <path
