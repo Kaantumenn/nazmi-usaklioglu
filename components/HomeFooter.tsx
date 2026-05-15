@@ -80,7 +80,7 @@ export function HomeFooter() {
           ))}
         </div>
         <p className="max-w-[min(100%,22rem)] text-center text-[11px] font-light leading-snug tracking-wide text-white/75 sm:max-w-[26rem] sm:text-xs md:max-w-none">
-          Dijital Marka Danışmanı: Serdar Sağlam
+          Dijital Marka Danışmanı: Mahmut Kaan Tümen
         </p>
       </div>
     </footer>
