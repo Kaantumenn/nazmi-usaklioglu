@@ -57,7 +57,7 @@ export function SiteHeader() {
             <span className="relative block h-8 w-8 shrink-0 md:h-24 md:w-24">
               <Image
                 src="/n_u_logo.png"
-                alt="Nazmi Uşakoğlu logosu"
+                alt="Nazmi Uşaklıoğlu logosu"
                 fill
                 className="object-contain"
                 sizes="80px"

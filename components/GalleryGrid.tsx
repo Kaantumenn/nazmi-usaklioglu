@@ -4,34 +4,34 @@ import Image from "next/image";
 const GALLERY_IMAGES = [
   {
     src: "/images/nazmi-1.jpeg",
-    alt: "Nazmi Uşakoğlu",
+    alt: "Nazmi Uşaklıoğlu",
     layout: "md:col-span-1 md:row-start-1",
   },
   {
     src: "/images/nazmi-2.jpeg",
-    alt: "Nazmi Uşakoğlu",
+    alt: "Nazmi Uşaklıoğlu",
     layout: "md:col-span-2 md:row-start-1",
   },
   {
     src: "/images/nazmi-3.jpeg",
-    alt: "Nazmi Uşakoğlu",
+    alt: "Nazmi Uşaklıoğlu",
     layout: "md:col-span-2 md:row-start-2",
   },
   {
     src: "/images/nazmi-4.jpeg",
-    alt: "Nazmi Uşakoğlu",
+    alt: "Nazmi Uşaklıoğlu",
     layout: "md:col-span-1 md:row-start-2",
   },
   {
     src: "/images/nazmi-5.jpeg",
-    alt: "Nazmi Uşakoğlu",
+    alt: "Nazmi Uşaklıoğlu",
     layout: "md:col-span-1 md:row-start-3",
     /** Alt sol: kadrajı hafif yukarı / merkez */
     imageClass: "object-cover object-[50%_42%]",
   },
   {
     src: "/images/nazmi-6.jpeg",
-    alt: "Nazmi Uşakoğlu",
+    alt: "Nazmi Uşaklıoğlu",
     layout: "md:col-span-2 md:row-start-3",
     /** Alt sağ (geniş): kişi fotoğrafta solda; kırpmayı % ile kaydırıp kutuda daha dengeli göster */
     imageClass: "object-cover object-[30%_center]",

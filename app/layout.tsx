@@ -11,10 +11,10 @@ const montserrat = Montserrat({
 
 export const metadata: Metadata = {
   title: {
-    default: "Nazmi Uşakoğlu",
-    template: "%s | Nazmi Uşakoğlu",
+    default: "Nazmi Uşaklıoğlu",
+    template: "%s | Nazmi Uşaklıoğlu",
   },
-  description: "Nazmi Uşakoğlu — resmî site",
+  description: "Nazmi Uşaklıoğlu — resmî site",
   icons: {
     icon: [
       { url: "/favicon-16x16.png", sizes: "16x16", type: "image/png" },
